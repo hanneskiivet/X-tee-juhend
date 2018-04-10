@@ -2,23 +2,12 @@
 title: X-tee rakendusjuhend
 ---
 
-## Sisukord
+Juhend põhineb X-tee versiooni 6 tarkvaral, [riigi infosüsteemi haldussüsteemi (RIHA) juhenditel](https://abi.riha.ee/) ja [X-tee määrusel](https://www.riigiteataja.ee/akt/127092016004). Dokumendi eesmärk on selgitada liikmetele X-tee versiooniga 6 liitumist ja selle kasutamist.
 
-* [1. Sissejuhatus](sissejuhatus.md)
-* [2. X-tee liikmeks saamine](liitumine.md)
-  * [2.1. Keskkonna valik liitumisel](liitumine.md#21-keskkonna-valik-liitumisel)
-  * [2.2. X-teega liitumine](liitumine.md#22-x-teega-liitumine-liikmeks-saamine)
-* [3. Turvaserveri paigaldamine ja seadistamine](turvaserveri-ettevalmistamine.md)
-  * [3.1. Turvaserveri ettevalmistamine](turvaserveri-ettevalmistamine.md)
-    * [3.1.1. Riistvaraline allkirjastamisseade ja selle valik](turvaserveri-ettevalmistamine.md#311-riistvaraline-allkirjastamisseade-ja-selle-valik)
-    * [3.1.2. Usaldusteenuste valik](turvaserveri-ettevalmistamine.md#312-usaldusteenuste-valik)
-  * [3.2. Turvaserveri paigaldamine](turvaserveri-paigaldamine.md)
-    * [3.2.1. Turvaserveri IP muutmine](turvaserveri-paigaldamine.md#321-turvaserveri-ip-muutmine)
-  * [3.3. Usaldusteenuste seadistamine](usaldusteenuste-seadistamine.md)
-  * [3.4. Turvaserveri registreerimine](turvaserveri-registreerimine.md)
-* [4. X-tee liikme alamsüsteemi registreerimine](alamsysteemi-registreerimine.md)
-  * [4.1. X-tee liikme alamsüsteemi registreerimine](alamsysteemi-registreerimine.md#41-x-tee-toodangkeskkonna-alams%C3%BCsteemi-kirjeldamine-ja-registreerimine-rihas)
-    * [4.1.1. X-tee liikme alamsüsteemi registreerimine](alamsysteemi-registreerimine.md#411-x-tee-toodangkeskkonna-ee-alams%C3%BCsteemi-registreerimine-rihas)
-  * [4.2 X-tee liikme alamsüsteemi registreerimine](alamsysteemi-registreerimine.md#42-x-tee-alams%C3%BCsteemi-registreerimine-x-teel-turvaserveris-ja-x-tee-keskuses)
-* [5. Andmeteenuste arendamine](teenuste-arendamine.md)
-* [6. Andmeteenuste osutamine ja kasutamine](teenuste-osutamine-kasutamine.md)
+X-tee haldamiseks kasutatakse lisaks X-tee tarkvarale [RIHAt](https://www.riha.ee/). See tähendab, et X-tee kasutamiseks peavad RIHAs olema sisestatud X-tee alamsüsteemi info.
+
+Juhend on loodud liitumiseks ja liidestumiseks vajalike tegevuste planeerimiseks.
+
+X-tee kasutuselevõtt koosneb järgnevatest sammudest:
+
+![X-tee kasutuselevõtu skeem](https://moodle.ria.ee/pluginfile.php/596/mod_page/content/189/juhisest%20115%20liitumise%20skeem.png)
