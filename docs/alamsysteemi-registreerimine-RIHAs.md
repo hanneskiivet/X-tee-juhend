@@ -2,9 +2,9 @@
 title: X-tee toodangkeskkonna alamsüsteemi kirjeldamine ja registreerimine RIHAs
 ---
 
-**X-tee v5 ajal registreeritud andmekogud/infosüstemid, millele väljastati X-tee v5 andmekogu sertifikaati ei ole X-tee v6 alamsüsteemid. 
+**X-tee v5 ajal registreeritud andmekogud/infosüstemid, millele väljastati X-tee v5 andmekogu sertifikaati ei ole X-tee v6 alamsüsteemid.**
 
-X-tee toodangkeskkonna X-tee keskuses on võimalik registreerida ainult sellist X-tee alamsüsteemi:** 
+**X-tee toodangkeskkonna X-tee keskuses on võimalik registreerida ainult sellist X-tee alamsüsteemi:** 
 
 * mis on kirjeldatud RIHAsse vt p 4.1.1
 * millele on määratud X-tee alamsüsteemi toimimise eest vastutaja kontaktisik, alamsüsteemi teenindava turvaserveri administraatori andmed ja X-tee alamsüsteemi turvameetmete süsteem. Riigi- ja kohaliku omavalitsuse asutustel on kohustus määrata turvaklass vastavalt avaliku teabe seaduse § 439 lõike 1 punkti 4 alusel kehtestatud määrusele.
