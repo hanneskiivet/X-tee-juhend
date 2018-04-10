@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}X-tee rakendusjuhend</title>
+    <link rel="icon" type="image/png" href="https://abi.riha.ee/assets/coat-of-arms-favicon.png">
+    <link rel="apple-touch-icon" href="https://abi.riha.ee/assets/apple-touch-coat-of-arms-favicon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/select2/dist/css/select2.min.css">
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/jquery-ui/themes/base/jquery-ui.min.css">
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/datatables/media/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="https://abi.riha.ee/css/bower_components/build/app.css">
+
+    <link rel="stylesheet" href="https://abi.riha.ee/css/resources.css">
+    <script src="https://abi.riha.ee/css/bower_components/jquery/dist/jquery.min.js"></script>
+
+</head>
+<body>
+<header id="header">
+  <div class="header-bottom">
+    <nav class="navbar navbar-toggleable-xl">
+    </nav>
+  </div>
+</header>
+<main class="container" id="content">
+    {% if page.title %}<header class="pagehead" style="background-image:url(https://abi.riha.ee/assets/images/data/intro-bg.png)">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="mb-0 mb-md-4">{{ page.title }}</h1>
+            </div>
+        </div>
+    </header>{% endif %}
+    <section class="col card p-3">
+        <div class="my-1">
+            {{ content }}
+        </div>
+    </section>
+</main>
+<footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-sm-6 col-md-3 col-12">
+          <div class="block">
+            <p class="head">Kasutajatugi
+            </p>
+            <ul class="contacts-list list-unstyled">
+              <li>
+                <div class="item-single">
+                    <span class="fa fa-envelope">
+                    </span>
+                  <div class="body">
+                    <div class="content">
+                      <a href="mailto:help@ria.ee">help@ria.ee</a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 col-md-3 col-12">
+          <div class="block">
+            <p class="head">Abiinfo &amp; lingid</p>
+            <ul class="links-list list-unstyled">
+              <li>
+                <a href=""></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6 col-md-4 col-12">
+          <a href="https://www.ria.ee/">
+            <img alt="Riigi Infosüsteemi Amet" src="https://abi.riha.ee/assets/images/base/RIA.png">
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+<script src="https://abi.riha.ee/css/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
