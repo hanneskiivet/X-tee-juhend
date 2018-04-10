@@ -1,6 +1,8 @@
 ---
-title: Sisukord
+title: X-tee rakendusjuhend
 ---
+
+## Sisukord
 
 * [1. Sissejuhatus](sissejuhatus.md)
 * [2. X-tee liikmeks saamine](liitumine.md)
