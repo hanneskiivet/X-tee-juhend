@@ -2,8 +2,6 @@
 title: Sisukord
 ---
 
-## Sisukord
-
 * [1. Sissejuhatus](sissejuhatus)
 * [2. X-tee liikmeks saamine](liitumine)
 * [3.1. Turvaserveri ettevalmistamine](turvaserveri-ettevalmistamine)
