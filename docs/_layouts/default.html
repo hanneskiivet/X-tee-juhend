@@ -18,7 +18,11 @@
 
     <link rel="stylesheet" href="https://abi.riha.ee/css/resources.css">
     <script src="https://abi.riha.ee/css/bower_components/jquery/dist/jquery.min.js"></script>
-
+    <style>
+        .main-nav { background-color: #eee; }
+        .main-nav UL { padding-left: 0; }
+        .my-1 { padding-top: 30px; }
+    </style>
 </head>
 <body>
 <header id="header">
@@ -38,24 +42,24 @@
     <section class="col card p-3">
         <div class="my-1">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 main-nav">
                     <ul>
-                        <li><a href="sissejuhatus.html">1. Sissejuhatus</a></li>
-                        <li><a href="liitumine.html">2. X-tee liikmeks saamine</a></li>
-                        <li><a href="liitumine.html#21-keskkonna-valik-liitumisel">2.1. Keskkonna valik liitumisel</a></li>
-                        <li><a href="liitumine.html#22-x-teega-liitumine-liikmeks-saamine">2.2. X-teega liitumine</a></li>
-                        <li><a href="turvaserveri-ettevalmistamine.html">3. Turvaserveri paigaldamine ja seadistamine</a></li>
-                        <li><a href="turvaserveri-ettevalmistamine.html">3.1. Turvaserveri ettevalmistamine</a></li>
-                        <li><a href="turvaserveri-ettevalmistamine.md#311-riistvaraline-allkirjastamisseade-ja-selle-valik">3.1.1. Riistvaraline allkirjastamisseade ja selle valik</a></li>
+                        <li><a href="{{ site.baseurl }}">1. Sissejuhatus</a></li>
+                        <li><a href="liitumine.html">2. Liikmeks saamine</a></li>
+                        <li><a href="liitumine.html#21-keskkonna-valik-liitumisel">2.1. Keskkonna valik</a></li>
+                        <li><a href="liitumine.html#22-x-teega-liitumine-liikmeks-saamine">2.2. Liitumine</a></li>
+                        <li><a href="turvaserveri-ettevalmistamine.html">3. Turvaserver</a></li>
+                        <li><a href="turvaserveri-ettevalmistamine.html">3.1. Ettevalmistamine</a></li>
+                        <li><a href="turvaserveri-ettevalmistamine.html#311-riistvaraline-allkirjastamisseade-ja-selle-valik">3.1.1. Riistvaraline allkirjastamisseade</a></li>
                         <li><a href="turvaserveri-ettevalmistamine.html#312-usaldusteenuste-valik">3.1.2. Usaldusteenuste valik</a></li>
-                        <li><a href="turvaserveri-paigaldamine.html">3.2. Turvaserveri paigaldamine</a></li>
-                        <li><a href="turvaserveri-paigaldamine.html#321-turvaserveri-ip-muutmine">3.2.1. Turvaserveri IP muutmine</a></li>
+                        <li><a href="turvaserveri-paigaldamine.html">3.2. Paigaldamine</a></li>
+                        <li><a href="turvaserveri-paigaldamine.html#321-turvaserveri-ip-muutmine">3.2.1. IP muutmine</a></li>
                         <li><a href="usaldusteenuste-seadistamine.html">3.3. Usaldusteenuste seadistamine</a></li>
-                        <li><a href="turvaserveri-registreerimine.html">3.4. Turvaserveri registreerimine</a></li>
-                        <li><a href="alamsysteemi-registreerimine.md">4. X-tee liikme alamsüsteemi registreerimine</a></li>
-                        <li><a href="alamsysteemi-registreerimine.html#41-x-tee-toodangkeskkonna-alams%C3%BCsteemi-kirjeldamine-ja-registreerimine-rihas">4.1. X-tee liikme alamsüsteemi registreerimine</a></li>
-                        <li><a href="alamsysteemi-registreerimine.html#411-x-tee-toodangkeskkonna-ee-alams%C3%BCsteemi-registreerimine-rihas">4.1.1. X-tee liikme alamsüsteemi registreerimine</a></li>
-                        <li><a href="alamsysteemi-registreerimine.html#42-x-tee-alams%C3%BCsteemi-registreerimine-x-teel-turvaserveris-ja-x-tee-keskuse">4.2 X-tee liikme alamsüsteemi registreerimine</a></li>
+                        <li><a href="turvaserveri-registreerimine.html">3.4. Registreerimine</a></li>
+                        <li><a href="alamsysteemi-registreerimine.html">4. Alamsüsteem</a></li>
+                        <li><a href="alamsysteemi-registreerimine.html#41-x-tee-toodangkeskkonna-alams%C3%BCsteemi-kirjeldamine-ja-registreerimine-rihas">4.1. Kirjeldamine ja registreerimine RIHAs</a></li>
+                        <li><a href="alamsysteemi-registreerimine.html#411-x-tee-toodangkeskkonna-ee-alams%C3%BCsteemi-registreerimine-rihas">4.1.1. Registreerimine RIHAs</a></li>
+                        <li><a href="alamsysteemi-registreerimine.html#42-x-tee-alams%C3%BCsteemi-registreerimine-x-teel-turvaserveris-ja-x-tee-keskuse">4.2. Registreerimine X-teel</a></li>
                         <li><a href="teenuste-arendamine.html">5. Andmeteenuste arendamine</a></li>
                     <li><a href="teenuste-osutamine-kasutamine.html">6. Andmeteenuste osutamine ja kasutamine</a></li>
                     </ul>
