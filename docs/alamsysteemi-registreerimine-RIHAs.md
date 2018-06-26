@@ -4,7 +4,7 @@ title: X-tee toodangkeskkonna alamsüsteemi kirjeldamine ja registreerimine RIHA
 
 **X-tee v5 ajal registreeritud andmekogud/infosüstemid, millele väljastati X-tee v5 andmekogu sertifikaati ei ole X-tee v6 alamsüsteemid.**
 
-**X-tee toodangkeskkonna X-tee keskuses on võimalik registreerida ainult sellist X-tee alamsüsteemi:** 
+**RIA registreerib X-tee toodangukeskkonnas ainult sellist registreerimisele esitatud alamsüsteemi:** 
 
 * mis on kirjeldatud RIHAsse vt p 4.1.1
 * millele on määratud X-tee alamsüsteemi toimimise eest vastutaja kontaktisik, alamsüsteemi teenindava turvaserveri administraatori andmed ja X-tee alamsüsteemi turvameetmete süsteem. Riigi- ja kohaliku omavalitsuse asutustel on kohustus määrata turvaklass vastavalt avaliku teabe seaduse § 439 lõike 1 punkti 4 alusel kehtestatud määrusele.
@@ -28,7 +28,7 @@ Seetõttu on oluline toodangu keskkonna alamsüsteemi registreerimine [RIHAs](ht
 
 Välismaisete organisatsioonide puhul (X-tee Member Class on NEE) tuleb RIHAs "Lühinimi" kasutada
 
-X-tee Member Code, selle koodi moodustamist vt ptk **3.2.**
+X-tee Member Code, selle koodi moodustamist vaata **[X-tee kasutamise juhendist](https://moodle.ria.ee/mod/page/view.php?id=288) pt 3.2.**
 
 Näide: 
 
