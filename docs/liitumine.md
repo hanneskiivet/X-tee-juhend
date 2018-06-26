@@ -4,7 +4,7 @@ title: X-tee liikmeks saamine
 
 ## 2.1 Keskkonna valik liitumisel
 
-X-teel on 3 keskkonda: toodangu-, test- ja arenduskeskkond. Nende keskkondade otstarve ja keskkondade tehnilised parameetrid leitavad [RIA kodulehelt](https://www.ria.ee/ee/x-tee-keskkonnad.html).
+X-teel on 3 keskkonda: toodangu-, test- ja arenduskeskkond. Nende keskkondade otstarve ja keskkondade tehnilised parameetrid on leitavad [RIA kodulehelt](https://www.ria.ee/ee/x-tee-keskkonnad.html).
 
 NB! X-tee toodangukeskkonnaga liitumiseks pead täitma erinevaid nõudeid. Nõuded on detailselt kirjeldatud [X-tee rakendusjuhises](https://moodle.ria.ee/mod/page/view.php?id=268). 
 
