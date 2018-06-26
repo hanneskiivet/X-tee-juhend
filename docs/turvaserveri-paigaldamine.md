@@ -32,12 +32,12 @@ Viited:
 
 Juhul kui X-tee liikmel tekib vajadus **toodangukeskkonna** turvaserveri IP-aadressi muutmiseks, tuleb toimida järgmiselt.
 
-1. Liige esitab X-tee keskusele (RIHAs märgitud X-tee alamsüsteemi kontaktisiku või asutuse esindusõigust omava isiku poolt) allkirjastatud taotluse IP-aadressi muutmiseks keskserveris. Taotluse vormi saab [siit](https://www.ria.ee/public/x_tee/Turvaserveri_IP_muutmise_taotlus.pdf).
+1. Liige esitab RIA'le (RIHAs märgitud X-tee alamsüsteemi kontaktisiku või asutuse esindusõigust omava isiku poolt) allkirjastatud taotluse IP-aadressi muutmiseks keskserveris. Taotluse vormi saab [siit](https://www.ria.ee/public/x_tee/Turvaserveri_IP_muutmise_taotlus.pdf).
 Taotlus tuleb saata aadressile help@ria.ee. Taotluse menetlemise käigus lepitakse liikmega täpsemalt kokku vajalikud tegevused ja aeg IP-aadressi muutmiseks.
-1. iige teavitab usaldusteenuse osutajat IP muutmise kohta (tagamaks OSCP ja ajatempliteenuse toimimine). 
-X-tee keskus teavitab liiget taotluse otsusest.
+1. Liige teavitab usaldusteenuse osutajat IP muutmise kohta (tagamaks OSCP ja ajatempliteenuse toimimine). 
+RIA teavitab liiget taotluse otsusest.
 
 Erisused arendus- ja testkeskkonnas
 
-* Arendus- või testkeskkonna IP-aadressi muutmiseks saadetakse X-tee keskusele sooviavaldus e-posti aadressile help@ria.ee, lisades järgmise info: asutuse nimi ja registrikood, turvaserveri nimi (server code), keskkond, mille IP-aadressi muudetakse, turvaserveri vana ja uus IP, kontaktisiku andmed (nimi, e-post, telefon).
+* Arendus- või testkeskkonna IP-aadressi muutmiseks saadetakse RIA'le sooviavaldus e-posti aadressile help@ria.ee, lisades järgmise info: asutuse nimi ja registrikood, turvaserveri nimi (server code), keskkond, mille IP-aadressi muudetakse, turvaserveri vana ja uus IP, kontaktisiku andmed (nimi, e-post, telefon).
 * Testkeskkonnas turvaserveri IP muutmise vajadusest teavitatakse ka usaldusteenuse osutajat.

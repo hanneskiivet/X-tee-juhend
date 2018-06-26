@@ -23,7 +23,7 @@ Erisused arendus- ja testkeskkonnas: riistvaralist allkirjastamisseadet ei pea k
 
 ### 3.1.2.	Usaldusteenuste valik
 
-Turvaserveri seadistamisel pead märkida kasutatava ajatempliteenuse osutaja. Pärast turvaserveri paigaldamist tuleb taotleda sertifikaat. 
+Turvaserveri seadistamisel pead märkima kasutatava ajatempliteenuse osutaja. Pärast turvaserveri paigaldamist tuleb taotleda sertifikaat. 
 
 Vajalikud on järgmised usaldusteenused:
 1. Turvaserveri **autentimissertifikaat** (turvaserveri omaniku autentimiseks, nn AUTH-sertifikaat) – iga turvaseveri kohta üks. Sertifikaate on võimalik soetada kõigilt [Euroopa usaldusnimekirjas](http://sr.riik.ee/et/tl.html) olevatelt sertifitseerijatelt, kui nende usaldusteenused vastavad [Infosüsteemide andmevahetuskihi usaldusteenuste tingimustele](https://www.ria.ee/public/x_tee/usaldusteenuste_tingimused.pdf). Hetkel on RIA tunnustanud ainult SK ID Solutions AS, kuid oleme valmis lisama ka muid teenusepakkujaid.
